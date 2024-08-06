@@ -1,7 +1,7 @@
 # Summer 2025 New York Tech Internships
 A fork of [Pitt CSC & Simplify](https://github.com/SimplifyJobs/Summer2024-Internships?tab=readme-ov-file)
 
-Use this repository to share and keep track of software, tech, CS, PM, and quant internships for Summer 2024 in New York City.
+Use this repository to share and keep track of software, tech, CS, PM, and quant internships for Summer 2025 in New York City.
 
 ## The List 🚴🏔
 ### Legend
