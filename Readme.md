@@ -1,5 +1,5 @@
 # Summer 2025 New York Tech Internships
-A fork of [Pitt CSC & Simplify](https://github.com/SimplifyJobs/Summer2024-Internships?tab=readme-ov-file)
+A fork of [Pitt CSC & Simplify](https://github.com/SimplifyJobs/Summer2025-Internships?tab=readme-ov-file)
 
 Use this repository to share and keep track of software, tech, CS, PM, and quant internships for Summer 2025 in New York City.
 
@@ -10,6 +10,9 @@ Use this repository to share and keep track of software, tech, CS, PM, and quant
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| **[Uber](https://simplify.jobs/c/Uber)** | 2025 Software Engineering Internship - Uber Career Prep - United States | <details><summary>**4 locations**</summary>Seattle, WA</br>SF</br>NYC</br>Sunnyvale, CA</details> | <a href="https://www.uber.com/global/en/careers/list/134090/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d703240b-6786-487b-854b-8d9fcba5f430?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 07 |
+| ↳ | 2025 Software Engineering Uberstar Internship - Uber Career Prep - United States | <details><summary>**4 locations**</summary>Seattle, WA</br>SF</br>NYC</br>Sunnyvale, CA</details> | <a href="https://www.uber.com/global/en/careers/list/133321/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/b0b86a8d-9442-447c-990a-9162ceab2b79?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 07 |
+| ↳ | Software Engineer – Internship - Defense Tech | NYC | <a href="https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/01a5ff88-29a2-4b09-9814-582b4e1fe212?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 06 |
 | Deloitte | Software Engineering Summer Scholar 🛂 | San Francisco, CA</br>Austin, TX</br>New York, NY | <a href="https://apply.deloitte.com/careers/JobDetail/Deloitte-Consulting-Software-Engineering-Summer-Scholar/185362?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
 | BNY | Internship Program - Engineering (Developer) 🛂 | Pittsburgh, PA, United States | <a href="https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/57957?bid=326&tid=x_7e024e72-9265-4f2c-ba2f-59998a99af38&utm_medium=Jobboard&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
 | Notion | Software Engineering Intern (Summer 2025) | San Francisco, CA</br>New York, NY | <a href="https://app.ripplematch.com/v2/public/job/46c48ab1/details?from_page=tracking_link&tl=1edfe69a&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
