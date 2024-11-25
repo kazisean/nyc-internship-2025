@@ -1,0 +1,32 @@
+name: Update Daily
+
+on:
+  schedule:
+    # Schedule the workflow to run daily at 5:00 UTC (12:00 AM EST)
+    - cron: '0 5 * * *'
+
+  workflow_dispatch: # Allow manual triggering
+    inputs: {}
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Run the script to update the Readme.md file
+      - name: Run Scrap Script
+        run: ./scrap.sh
+
+      # Commit and push the changes
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add Readme.md
+          current_date=$(date +"%b %d, %Y")
+          git commit -m "Last Update: $current_date"
+          git push
