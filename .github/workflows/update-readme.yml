@@ -1,5 +1,8 @@
 name: Update Daily
 
+permissions:
+  contents: write
+  
 on:
   schedule:
     # Schedule the workflow to run daily at 5:00 UTC (12:00 AM EST)
