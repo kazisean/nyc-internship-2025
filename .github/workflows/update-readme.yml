@@ -34,7 +34,7 @@ jobs:
             echo "No changes to commit."
           else
             current_date=$(date +"%b %d, %Y")
-            git commit -m "Last Update: $current_date"
+            git commit -m "Last Updated: $current_date"
             git push
           fi
 
