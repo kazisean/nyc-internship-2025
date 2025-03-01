@@ -11,7 +11,7 @@ speedyAI="https://raw.githubusercontent.com/speedyapply/2025-AI-College-Jobs/ref
 
 # Create Readme.md file and write the header
 echo "# Summer 2025 New York Tech Internships" > Readme.md
-echo "A fork of [Pitt CSC & Simplify](https://github.com/SimplifyJobs/Summer2025-Internships?tab=readme-ov-file) & [cvrve Summer2025-Internships](https://github.com/cvrve/Summer2025-Internships) & [speedyapply swe](https://github.com/speedyapply/2025-SWE-College-Jobs) & [speedyapply AI](https://github.com/speedyapply/2025-AI-College-Jobs)" >> Readme.md
+echo "A fork of [Pitt CSC & Simplify](https://github.com/SimplifyJobs/Summer2025-Internships?tab=readme-ov-file), [cvrve Summer2025-Internships](https://github.com/cvrve/Summer2025-Internships), [speedyapply swe](https://github.com/speedyapply/2025-SWE-College-Jobs) & [speedyapply AI](https://github.com/speedyapply/2025-AI-College-Jobs)" >> Readme.md
 echo "" >> Readme.md
 echo "Use this repository to share and keep track of software, tech, CS, PM, and quant internships for Summer 2025 in New York City." >> Readme.md
 echo "" >> Readme.md
