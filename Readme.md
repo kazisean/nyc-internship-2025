@@ -1,5 +1,5 @@
 # Summer 2025 New York Tech Internships
-A fork of [Pitt CSC & Simplify](https://github.com/SimplifyJobs/Summer2025-Internships?tab=readme-ov-file) & [cvrve Summer2025-Internships](https://github.com/cvrve/Summer2025-Internships) & [speedyapply swe](https://github.com/speedyapply/2025-SWE-College-Jobs) & [speedyapply AI](https://github.com/speedyapply/2025-AI-College-Jobs)
+A fork of [Pitt CSC & Simplify](https://github.com/SimplifyJobs/Summer2025-Internships?tab=readme-ov-file), [cvrve Summer2025-Internships](https://github.com/cvrve/Summer2025-Internships), [speedyapply swe](https://github.com/speedyapply/2025-SWE-College-Jobs) & [speedyapply AI](https://github.com/speedyapply/2025-AI-College-Jobs)
 
 Use this repository to share and keep track of software, tech, CS, PM, and quant internships for Summer 2025 in New York City.
 
